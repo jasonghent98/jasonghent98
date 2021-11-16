@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonghent98
-- 👀 I’m interested in software development, specifically web development with front-end and back-end work.
-- 🌱 I’m currently learning how to integrate HTML, CSS, JavaScript, Node JS and more to build full-functioning applications.
-- 💞️ I’m looking to collaborate on any applications/open-source projects in order to learn more and improve my programming/problem solving skills.
+- 👀 I am interested in software development, specifically web/mobile development with front-end and back-end work.
+- 🌱 I am currently focusing on learning the ins and outs of React.js to build more efficient, interactive UIs using my knowledge of JavaScript, HTML, CSS.
+- 💞️ Looking to collaborate on any applications/open-source projects in order to learn more and improve my programming/problem solving skills.
 - 📫 How to reach me: Email: jasonthomasghent@gmail.com 
 
 <!---
