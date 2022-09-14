@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonghent98
 - 👀 I am interested in full-stack development.
-- 🌱 Currently taking a break on personal projects to focus on preparing for interviews
+- 🌱 Currently working on algorithms, data structures, and personal projects.
 - 💞️ Looking to collaborate on any applications/open-source projects in order to learn more and improve my programming/problem solving skills.
 - 📫 How to reach me: Email: jasonthomasghent@gmail.com 
 
